@@ -4,6 +4,7 @@
   "main": "app.js",
   "dependencies": {
     "discord.js": "^11.5.1",
+    "dotenv": "^4.0.0",
     "googleapis": "^39.2.0",
     "snoostorm": "0.0.5",
     "snoowrap": "^1.19.0"
